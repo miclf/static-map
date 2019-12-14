@@ -1,0 +1,7 @@
+# Third-party PHP packages & libraries
+# ------------------------------------
+
+# The Composer dependency manager installs packages into this directory.
+# Files stored there must never be modified since any change would be
+# discarded as soon as an update of the dependencies is triggered.
+/vendor
