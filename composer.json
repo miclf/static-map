@@ -1,0 +1,20 @@
+{
+    "name": "miclf/static-map",
+    "description": "",
+    "license": "CC0-1.0",
+    "authors": [
+        {
+            "name": "miclf",
+            "email": "michael@estsurinter.net"
+        }
+    ],
+    "require": {
+        "ext-gd": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Miclf\\StaticMap\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
